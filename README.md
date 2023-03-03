@@ -10,7 +10,7 @@
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="SQL" height="30" width="40" src=
+  <img align="center" alt="" height="30" width="40" src=
   <img align="center" alt="JS" height="30" width="40" src=
   <img align="center" alt="C#" height="30" width="40" src=
  
