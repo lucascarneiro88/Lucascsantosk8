@@ -11,9 +11,7 @@
 </div>
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="Rafa-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicon/master/icons/csharp/csharp-original.svg">
- 
- <br>
+  <img align="center" alt="C#" height="30" width="40" src=
  
   
 <div> 
